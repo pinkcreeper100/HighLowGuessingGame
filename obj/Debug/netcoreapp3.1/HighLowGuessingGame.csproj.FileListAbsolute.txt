@@ -1,0 +1,13 @@
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame.deps.json
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame.runtimeconfig.json
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame.runtimeconfig.dev.json
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame.dll
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/bin/Debug/netcoreapp3.1/HighLowGuessingGame.pdb
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.csprojAssemblyReference.cache
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.AssemblyInfoInputs.cache
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.AssemblyInfo.cs
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.csproj.CoreCompileInputs.cache
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.dll
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.pdb
+/home/pinkcreeper100/RiderProjects/HighLowGuessingGame/obj/Debug/netcoreapp3.1/HighLowGuessingGame.genruntimeconfig.cache
